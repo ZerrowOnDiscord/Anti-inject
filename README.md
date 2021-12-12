@@ -29,6 +29,6 @@
 -----
 ### <p align="center">### Video</p>
 <br>
-[!(https://img.youtube.com/vi/c9zat9Gos-k/0.jpg)](https://www.youtube.com/watch?v=c9zat9Gos-k)
+<a href="https://www.youtube.com/watch?v=c9zat9Gos-k"><img src="https://img.youtube.com/vi/c9zat9Gos-k/0.jpg"></a>
 
 -----
