@@ -29,6 +29,6 @@
 -----
 ### <p align="center">### Video</p>
 <br>
-[![Alt text for your video](https://img.youtube.com/vi/c9zat9Gos-k/0.jpg)](https://www.youtube.com/watch?v=c9zat9Gos-k)
+[!(https://img.youtube.com/vi/c9zat9Gos-k/0.jpg)](https://www.youtube.com/watch?v=c9zat9Gos-k)
 
 -----
