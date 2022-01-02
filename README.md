@@ -14,7 +14,7 @@
 -----
 ### <p align="center">### A Savoir</p>
 <p align="center">
-  <p>Ce programme est obfusqué avec Kramer (https://github.com/billythegoat356/Kramer), pourquoi l'avoir obfusqué ? Car j'ai mis en place un systeme de karma, je vous explique. Lorsque le programme détecte qu'il y a eu une injection, il envoit a l'aide d'un Webhook Discord votre fichier index.js de Discord pour me permettre de potentiellement avoir le Webhook qui envoit votre mdp, email etc.. a l'attaquant et donc le supprimer/spammer. Donc si vous desofusquez le programme, veuillez ne pas spam le webhook c'est pour la bonne cause !</p>
+  <p>Windows Only <br>Discord tested versions: <br> - Stalbe ✅ <br> - PTB ❌ <br> - Canary ❌</p>
   <br>
 </p>
 
