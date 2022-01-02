@@ -1,11 +1,1 @@
-py -m pip install colorama
-py -m pip install fileinput
-py -m pip install requests
-py -m pip install re
-py -m pip install json
-py -m pip install ctypes
-py -m pip install pystyle
-py -m pip install watchdog
-py -m pip install time
-py -m pip install discord_webhook
-py -m pip install shutil
+py -m pip install -r requirements.txt
