@@ -26,7 +26,7 @@ def indexrestor():
     for platform, path in paths.items():
         if not os.path.exists(path):
             continue
-        path += '\\app-1.0.9003\modules\discord_desktop_core-1\discord_desktop_core' # I would make the program find the version of discord on its own later :)
+        path += '\\app-1.0.9004\modules\discord_desktop_core-1\discord_desktop_core' # I would make the program find the version of discord on its own later :)
         time.sleep(1)
         with open(f"{path}\index.txt", "w", encoding="utf8") as f:
             f.write("module.exports = require('./core.asar');")
@@ -48,7 +48,7 @@ def main():
         if not os.path.exists(path):
             continue
 
-        path += '\\app-1.0.9003\modules\discord_desktop_core-1\discord_desktop_core'
+        path += '\\app-1.0.9004\modules\discord_desktop_core-1\discord_desktop_core'
         observer = Observer()
         observer.schedule(WatchDogEvent(), path, recursive=True)
         print("[i] Votre Discord est sous la surveillance de Hydre.")
